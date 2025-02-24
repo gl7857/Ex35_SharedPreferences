@@ -63,6 +63,5 @@ public class Credits extends AppCompatActivity {
             finish();
         }
         return true;
-
     }
 }

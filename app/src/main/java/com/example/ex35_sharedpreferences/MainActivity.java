@@ -130,6 +130,5 @@ public class MainActivity extends AppCompatActivity {
             finish();
         }
         return true;
-
     }
 }

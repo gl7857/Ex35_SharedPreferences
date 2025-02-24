@@ -115,7 +115,6 @@ public class MainActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.creditsmenu, menu);
         return true;
     }
-
     /**
      * Handles item selection from the options menu.
      * If the "menuMain" item is selected, the activity finishes and returns to the main activity.
